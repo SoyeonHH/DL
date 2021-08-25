@@ -22,6 +22,7 @@ Chapter|Title|Description|Code
 
 Chapter|Title|Description|Code
 ---|---|---|---
+1|[신경망 복습](https://github.com/SoyeonHH/DL/blob/main/v2/2.Ch01.pdf)|벡터와 행렬, 신경망의 추론과 학습 구현, 계산 고속화|[Ch01](https://github.com/SoyeonHH/DL/blob/main/v2/Ch01.ipynb)
 
 
 출처 : <밑바닥부터 시작하는 딥러닝 2>, 사이토 고키, 한빛미디어, 2019
